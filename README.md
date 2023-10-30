@@ -25,7 +25,7 @@ Discord link : https://discord.gg/kcVzmSTP58
 
 5: How to find ipv4 address?, if your running the server on your phone, you can change that "192.168.18.102" to "127.0.0.1", otherwise if your running the server on pc, open command prompt and type ipconfig and you'll see your ipv4 address down below which will start like "192.168.xx.xx"
 
-6: Compile the apk with the changes and install it, and enjoy playing bsds brawl!
+6: Compile the apk with the changes and install it, and enjoy playing lsbs brawl!
 
 ## Optional Steps [ Android ] ##
 1: If you want to change port you could change redirectPort to whatever port you want, keep in mind you have to change port in server too.
