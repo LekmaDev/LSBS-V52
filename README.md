@@ -15,7 +15,7 @@ Discord link : https://discord.gg/kcVzmSTP58
 3: Type python Core.py and it's done, follow client instructions.
 
 ### Android client ###
-1: Download the apk here: https://drive.google.com/file/d/1nE6-sS41ViugfEvuLSjC8jMiCfaPJ0FR/view?usp=drivesdk
+1: Download the apk here: https://drive.google.com/file/d/1naLo0u0Rrmj8tvcutz-A8ivSKs8rPlWX/view?usp=drivesdk
 
 2: Download an apk editor of your choice
 
