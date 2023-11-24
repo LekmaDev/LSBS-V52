@@ -2,7 +2,7 @@ Brawl Stars V52 MOD!
 
 # We use a zip server from BSDS that made [risporce](https://github.com/risporce)
 
-Discord link : https://discord.gg/kcVzmSTP58
+Discord link : https://discord.gg/DAQVzRAxKt
 
 
 ## How to play LSBS: ##
