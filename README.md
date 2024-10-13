@@ -30,7 +30,7 @@ Discord link : https://discord.gg/DAQVzRAxKt
 ## Optional Steps [ Android ] ##
 1: If you want to change port you could change redirectPort to whatever port you want, keep in mind you have to change port in server too.
 
-![IMG_1193](https://cdn.discordapp.com/attachments/1040608064681803827/1168624752668180612/Screenshot_2023-10-30-20-56-33-430_com.projectlsbs.v52.jpg?ex=6552719d&is=653ffc9d&hm=69e3aecd895d6998ddf973fec3f67b8c9e4be42421330aac0eb85b3e4fe13767&)
+![IMG_1193](https://cdn.discordapp.com/attachments/1040608064681803827/1168624752668180612/Screenshot_2023-10-30-20-56-33-430_com.projectlsbs.v52.jpg?ex=670c181d&is=670ac69d&hm=8c41a0e86b37c7c228b2cdf106460812d9360ed775ee64896150d41f181bfc16&)
 
 ## credits ##
 [Speigen](https://github.com/SpeigenGit) Android Client
